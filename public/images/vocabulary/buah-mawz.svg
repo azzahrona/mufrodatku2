@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFE7DF"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="360" rx="42" fill="url(#bg)"/>
+  <circle cx="70" cy="72" r="24" fill="#E36C50" opacity=".12"/>
+  <circle cx="405" cy="285" r="44" fill="#E36C50" opacity=".10"/>
+  <path d="M28 285 Q105 235 175 290 T330 280 T480 275 L480 360 L0 360Z" fill="#E36C50" opacity=".07"/>
+  <text x="240" y="205" text-anchor="middle" dominant-baseline="middle" font-size="150" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif">🍌</text>
+  <text x="240" y="320" text-anchor="middle" font-size="19" font-family="Arial, sans-serif" fill="#E36C50" opacity=".8">MufradatKu</text>
+</svg>
